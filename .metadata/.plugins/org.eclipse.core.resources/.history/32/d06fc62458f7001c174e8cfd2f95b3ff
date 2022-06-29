@@ -1,0 +1,15 @@
+package java0629;
+
+public class ex05약수구하기 {
+
+	public static void main(String[] args) {
+		
+		for (int i=2; i<31; i++) {
+			System.out.print(i+"의 약수 : ");
+
+			System.out.println();
+		}
+
+	}
+
+}
