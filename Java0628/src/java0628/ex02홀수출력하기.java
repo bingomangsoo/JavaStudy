@@ -1,0 +1,20 @@
+package java0628;
+
+public class ex02홀수출력하기 {
+
+	public static void main(String[] args) {
+		// 25~70 홀수만 출력해보자!
+		
+		for (int i = 25; i < 71; i++) {
+			if (i%2==1) {
+				System.out.println(i);
+			}
+		}
+		/*
+		for (int i =25; i <=70; i+=2) {
+			System.out.println(i);
+		}*/
+
+	}
+
+}

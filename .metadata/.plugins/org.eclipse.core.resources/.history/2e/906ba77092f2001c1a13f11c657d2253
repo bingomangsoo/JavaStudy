@@ -1,0 +1,24 @@
+package Java0623;
+
+import java.util.Scanner;
+
+public class ex02 {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int java = sc.nextInt();
+		int web = sc.nextInt();
+		int android = sc.nextInt();
+		
+		System.out.println("Java 점수 입력 : " + java);
+		System.out.println("Web 점수 입력 : " + web);
+		System.out.println("Android 점수 입력 : "+ android);
+		int sum = java + web + android;
+		System.out.println("합계 : " + sum);
+		System.out.println("평균 : " + sum/3);
+		System.out.println(sc+sc+sc);
+	}
+
+}

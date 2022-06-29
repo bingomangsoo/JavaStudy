@@ -1,0 +1,21 @@
+2022-06-21 09:39:46,539 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-06-21 10:51:37,696 [Worker-22: http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.4.2.200908121739.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://jaist.dl.sourceforge.net:80
+2022-06-21 10:51:38,096 [Worker-0: http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.4.2.200908121739.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://jaist.dl.sourceforge.net:80
+2022-06-21 10:51:38,617 [Worker-17: http://downloads.sourceforge.net/project/sapnweclipse/updates/features/com.sap.netweaver.porta.ide.eclipse.feature_0.5.0.200909151631.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://jaist.dl.sourceforge.net:80
+2022-06-21 10:53:45,302 [main] INFO  org.eclipse.jetty.server.Server - jetty-10.0.9; built: 2022-03-30T16:46:32.527Z; git: a9eaf8d5d73369acf610ce88f850c0d56c4b1113; jvm 17.0.3+7
+2022-06-21 10:53:45,356 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-06-21 10:53:45,405 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5317749d{/wse,null,AVAILABLE}
+2022-06-21 10:53:45,443 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3f5cdc10{HTTP/1.1, (http/1.1)}{0.0.0.0:2206}
+2022-06-21 10:53:45,447 [main] INFO  org.eclipse.jetty.server.Server - Started Server@5cc090ad{STARTING}[10.0.9,sto=0] @4470903ms
+2022-06-21 18:04:16,459 [Framework stop - Equinox Container: e7cd2cde-fd45-4a5f-b3b6-7e133e4b4c83] INFO  org.eclipse.jetty.server.Server - Stopped Server@5cc090ad{STOPPING}[10.0.9,sto=0]
+2022-06-21 18:04:16,483 [Framework stop - Equinox Container: e7cd2cde-fd45-4a5f-b3b6-7e133e4b4c83] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3f5cdc10{HTTP/1.1, (http/1.1)}{0.0.0.0:0}
+2022-06-21 18:04:16,799 [Framework stop - Equinox Container: e7cd2cde-fd45-4a5f-b3b6-7e133e4b4c83] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5317749d{/wse,null,STOPPED}
+2022-06-22 10:07:53,726 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-06-23 08:52:34,508 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-06-24 08:50:46,255 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-06-24 10:22:07,337 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-06-27 08:56:25,878 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-06-28 08:53:49,420 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-06-28 09:12:01,685 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-06-28 15:11:23,225 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-06-29 08:59:06,544 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

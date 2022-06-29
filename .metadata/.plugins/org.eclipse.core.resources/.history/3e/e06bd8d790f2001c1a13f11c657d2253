@@ -1,0 +1,10 @@
+package Java0623;
+
+public class ex02 {
+
+	public static void main(String[] args) {
+		
+		Scanner sv = new Scanner(Sy)
+	}
+
+}

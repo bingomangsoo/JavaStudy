@@ -1,0 +1,32 @@
+package java0628;
+
+import java.util.Scanner;
+
+public class ex05 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Scanner sc = new Scanner(System.in);
+		
+		int num1 = sc.nextInt();
+		int num2 = sc.nextInt();
+		
+		int sum = 0;
+
+		
+		for (int i =0; i <num2; i++) {
+			sum +=i;
+			if (i <num2) {
+				System.out.println(i);
+				System.out.println('+');
+			}if (i==2) {
+				System.out.println(num2);
+				System.out.println("=");
+				System.out.println(sum);;
+			}
+		}
+	}
+	
+
+}

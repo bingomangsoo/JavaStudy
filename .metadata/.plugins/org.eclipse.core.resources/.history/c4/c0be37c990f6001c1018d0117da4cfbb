@@ -1,0 +1,19 @@
+package java0628;
+
+public class ex07 {
+
+	public static void main(String[] args) {
+
+		int two =2;
+		
+		for (int j =1; j<10; j++) {
+			System.out.println(two + "*" + j + "=" + (two*j));
+		}
+		
+		
+		for (int i=1; i<10; i++) {
+			System.out.println(2+"*"+i);
+		}
+	}
+
+}

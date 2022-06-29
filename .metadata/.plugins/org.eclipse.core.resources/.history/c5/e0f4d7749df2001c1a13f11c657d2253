@@ -1,0 +1,16 @@
+package Java0623;
+
+import java.util.Scanner;
+
+public class ex06큰수에서작은수빼기 {
+
+	public static void main(String[] args) {
+		// 두 수를 입력
+		Scanner input = new Scanner(System.in);
+		
+		System.out.println();
+		
+
+	}
+
+}
