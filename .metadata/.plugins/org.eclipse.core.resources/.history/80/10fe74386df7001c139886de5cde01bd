@@ -1,0 +1,26 @@
+package java0629;
+
+public class hart {
+
+	public static void main(String[] args) {
+		
+		System.out.println(" "+ " "+"**" +" "+" "+" " +"**");
+		System.out.println(" "+"****"+" "+"****");
+		
+		
+		for (int j =0, k =11; j<=5; j++, k-=2) {
+			for (int i=1; i<=j; i++) {
+				System.out.print("@");
+			}
+			for (int i =1; i<=k; i++) {
+				System.out.print("*");
+			}
+			for (int i=1; i<=j; i++) {
+				System.out.print("@");
+			}
+			System.out.println();
+		}
+
+	}
+
+}

@@ -22,17 +22,7 @@ public class ex05약수구하기 {
 				}
 			}System.out.println();
 		}
-		
 
-		
-		
-		
-	
-//		for (int j = 1; j<=10; j++) {
-//			for (int k=1; k<=10; k++) {
-//				if (j%k==0) {
-//				System.out.println(k);
-//				}
 //			}
 //	}
 	}

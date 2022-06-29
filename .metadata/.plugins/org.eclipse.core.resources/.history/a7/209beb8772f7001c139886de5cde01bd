@@ -1,0 +1,45 @@
+package java0629;
+
+public class hart {
+
+	public static void main(String[] args) {
+		
+//		System.out.println(" "+ " "+"**" +" "+" "+" " +"**");
+//		System.out.println(" "+"****"+" "+"****");
+
+int MAX_NUMBER = 3;
+		
+for(int i=0; i<MAX_NUMBER; i++) {
+	
+	for(int j=MAX_NUMBER-i;j>0;j--) {
+		System.out.print(" ");
+	}
+	for(int k=1; k<=i*2; k++) {
+		System.out.print("*");
+	}
+	for(int j=(MAX_NUMBER*2)-(i*2);j>0;j--) {
+		System.out.print("");
+	}
+	for(int k=1; k<=i*2; k++) {
+		System.out.print("*");
+	}
+	System.out.println();	
+}
+		
+		
+		for (int j =0, k =11; j<=5; j++, k-=2) {
+			for (int i=1; i<=j; i++) {
+				System.out.print("@");
+			}
+			for (int i =1; i<=k; i++) {
+				System.out.print("*");
+			}
+			for (int i=1; i<=j; i++) {
+				System.out.print("@");
+			}
+			System.out.println();
+		}
+
+	}
+
+}
